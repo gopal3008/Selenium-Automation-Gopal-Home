@@ -13,9 +13,11 @@ System.out.println(str.charAt(8));
 
 int a = str.indexOf('a', str.indexOf('a')+1);
 System.out.println(str.indexOf('a',a+1));
+
 for(int i=0;i<str.length();i++){
 //	if()
 }
+
 
 
 

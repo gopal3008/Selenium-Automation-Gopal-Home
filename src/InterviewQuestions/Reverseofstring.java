@@ -27,7 +27,7 @@ if(a){
 }
 		
 if(Str.contains(" ")){
-		System.out.println("String contains spaces");	
+		System.out.println("String contains spaces ");	
 		}
 
 
